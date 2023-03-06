@@ -22,10 +22,13 @@
 
   - NOTE: carefully follow the instructions in the tutorial link above to ensure the database is set up properly and compatible with Rails 7.
 
-- [MongoDB Atlas App](https://www.mongodb.com/try) -- A developer data platform built around a fully managed MongoDB service. Address transactional, search, and analytical workloads.
-  - See [example](app/assets/images/AtlasSticksDB.png) of Sticks DB.
+* If you do not have a MongoDB account, sign up for free: [MongoDB](https://www.mongodb.com/try)
 
-Check Out The Repository
+- Download Compass for MongoDB, an interactive tool for querying, optimizing, and analyzing your MongoDB data. Get key insights, drag and drop to build pipelines, and more.
+
+* An example of Sticks DB in [MongoDB Compass](https://www.mongodb.com/products/compass) - the GUI for MondoDB: <img src="app/assets/images/AtlasSticksDB.png" alt="Atlas DB" title="app db" width="900" height="auto">
+
+The Repository
 
 - `git@github.com:onomatopoetica/sticks.git`
   Instructions for [cloning a GitHub repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
